@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Settings Page</h1>
+    <h1>Captcha Page</h1>
   </div>
 </template>
 
@@ -8,6 +8,6 @@
 import { defineComponent } from 'vue';
 
 export default defineComponent({
-  name: 'SettingsPage',
+  name: 'CaptchaPage',
 });
 </script>
